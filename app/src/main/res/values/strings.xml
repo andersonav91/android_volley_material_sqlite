@@ -1,0 +1,8 @@
+<resources>
+    <string name="contact_form">Contact Form</string>
+    <string name="contact_full_name">Full Name</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_phone">Phone</string>
+    <string name="contact_subject">Subject</string>
+    <string name="button_save">Save</string>
+</resources>
